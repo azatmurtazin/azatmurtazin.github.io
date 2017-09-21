@@ -3,6 +3,7 @@ layout: post
 title:  "Test"
 date:   2017-09-06 13:41:40 +0400
 categories: ""
+comments: true
 ---
 
 Шла Саша по шоссе и сосала сушку
