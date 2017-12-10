@@ -1,1 +1,1 @@
-# azatmurtazin.github.io
+http://azatmurtazin.github.io
