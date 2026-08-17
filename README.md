@@ -1,5 +1,6 @@
-# Контакты
+# Contacts / Контакты
 
+* [CV in English](/cv.en.md)
 * [Резюме на русском](/cv.ru.md)
 * Email: <murtazin.azat@gmail.com>
 * TG: [@AzatMurtazin](https://t.me/AzatMurtazin)
