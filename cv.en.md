@@ -1,6 +1,4 @@
-# Azat Murtazin
-
-**Senior Software Engineer | Golang/PHP/Ruby/Elxir | High-Load Systems | Microservices | Kubernetes**
+# Senior Software Engineer - Golang/PHP/Ruby/Elixir
 
 * Location: Almaty, Kazakhstan
 * Email: <murtazin.azat@gmail.com>
