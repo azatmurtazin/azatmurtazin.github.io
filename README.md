@@ -11,6 +11,4 @@
 
 ---
 
-## Blog
-
-* [Hello, World!]({% post_url 2026-09-16-hello-world %})
+[My Blog](/index.md)
