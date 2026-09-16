@@ -8,3 +8,9 @@
 * GH: [github.com/azatmurtazin](https://github.com/azatmurtazin)
 * LI: [linkedin.com/in/azatmurtazin](https://www.linkedin.com/in/azatmurtazin)
 * Location: Almaty, Kazakhstan / Алматы, Казахстан
+
+---
+
+## Blog
+
+* [Hello, World!]({% post_url 2026-09-16-hello-world %})
