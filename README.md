@@ -11,4 +11,4 @@
 
 ---
 
-[My Blog](/index.md)
+[My Blog](/blog.md)
