@@ -1,10 +1,3 @@
-# Contacts
+# AzatMurtazin.GitHub.io
 
-* [CV in English](./cv.en.html) — [pdf](./Azat_Murtazin_Senior_Backend_Engineer_EN.pdf)
-* [Резюме на русском](./cv.ru.html) — [pdf](./Azat-Murtazin-PHP-Golang-Fullstack-Developer-RU.pdf)
-* Email: <murtazin.azat@gmail.com>
-* TG: [@AzatMurtazin](https://t.me/AzatMurtazin)
-* WA: [+77059820976](https://wa.me/77059820976)
-* GH: [github.com/azatmurtazin](https://github.com/azatmurtazin)
-* LI: [linkedin.com/in/azatmurtazin](https://www.linkedin.com/in/azatmurtazin)
-* Location: Almaty, Kazakhstan
+<https://azatmurtazin.github.io>
