@@ -1,7 +1,3 @@
-html {
-  background-color: #f0f0f0;
-}
-
 body {
   max-width: 800px;
   margin-inline: auto;
@@ -15,6 +11,7 @@ body {
 h1 {
   font-size: 24pt;
   text-align: center;
+  margin-top: 0;
   margin-bottom: 0.2rem;
 }
 
@@ -87,7 +84,7 @@ p {
 
   @page {
     @bottom-left {
-      content: "Azat Murtazin — PHP/Go Fullstack Developer";
+      content: "Azat Murtazin — PHP/Golang Fullstack Developer";
       font-family: "Open Sans", sans-serif;
       font-size: 9pt;
       font-weight: 200;
@@ -98,19 +95,5 @@ p {
       font-size: 9pt;
       font-weight: 200;
     }
-  }
-}
-
-@media (max-width: 992px) {
-  body {
-    max-width: 768px;
-    padding: 0 20px;
-  }
-}
-
-@media (max-width: 576px) {
-  body {
-    max-width: 100%;
-    padding: 0 16px;
   }
 }
